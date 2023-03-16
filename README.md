@@ -1,1 +1,6 @@
 # Phishing-URL-Detection
+Phishing is a type of cyber attack where a malicious actor tries to trick a user into providing sensitive information such as login credentials, credit card details, or other personal information. The attacker typically sends a fraudulent email, message or creates a fake website that looks legitimate and asks the user to enter their information.
+
+A phishing URL is a web address that is designed to look like a legitimate website but is actually a fake site set up by a hacker to steal sensitive information from users. These URLs are often embedded in phishing emails or messages and can be very convincing, using similar logos, fonts, and web designs as the legitimate website they are impersonating.
+
+A phishing URL detector is a tool that can help identify phishing URLs by analyzing the web address and comparing it to a database of known phishing URLs. These tools can be standalone software or integrated into web browsers or email clients, and they work by checking the URL against known patterns and characteristics of phishing URLs. If a match is found, the detector will alert the user to the potential danger and provide guidance on how to avoid the phishing attack.
